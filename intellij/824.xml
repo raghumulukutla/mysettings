@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>824</id>
+  <editorColorsScheme>raredark</editorColorsScheme>
+  <dark>true</dark>
+  <name>raredark</name>
+  <colors>
+    <color id="background" value="000000ff"/>
+    <color id="foreground" value="ffffffff"/>
+    <color id="text" value="ffffffff"/>
+    <color id="highlight" value="1f2233ff"/>
+    <color id="selectionBackground" value="717cb480"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="191a21ff"/>
+    <color id="secondaryBackground" value="181a1fff"/>
+    <color id="disabled" value="464b5dff"/>
+    <color id="contrast" value="090b10ff"/>
+    <color id="tableSelected" value="1a1c25ff"/>
+    <color id="secondBorder" value="0f111aff"/>
+    <color id="treeSelection" value="717cb430"/>
+    <color id="notifications" value="090b10ff"/>
+    <color id="accent" value="d900f1ff"/>
+    <color id="excluded" value="292d3eff"/>
+  </colors>
+  <themeId>824</themeId>
+</mtTheme>
